@@ -186,7 +186,7 @@ Description:
 
 Command:
 
-    bower install git@gitlab.idc1.ux:gene/bower-lab.git
+    bower install https://github.com/geneseven/bower-lab.git
 ### Bower File Result
 #### finally file structure
 Result:
